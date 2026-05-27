@@ -1,8 +1,8 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-Public class file{
-Public Static void Main(Strings[] args){
+public class file{
+public static void main(String[] args){
 HashMap<Integer,String> map=new HashMap<>();
 Scanner in= new Scanner(System.in);
 System.out.print("Enter the size of Hashmap: ");
